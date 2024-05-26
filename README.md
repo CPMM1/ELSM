@@ -1,4 +1,5 @@
-# Generative Recommenders
+# ELSM
+
 
 The source code of ``Enhancing Large Models based Sequential Recommendation with
 Multimodal Graph Convolution Network``
