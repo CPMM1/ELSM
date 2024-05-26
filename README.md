@@ -5,10 +5,13 @@ Multimodal Graph Convolution Network``
 
 Our code is implemented based on ``Actions Speak Louder than Words: Trillion-Parameter Sequential Transducers for Generative Recommendations``, [here](https://github.com/facebookresearch/generative-recommenders) is their project address.
 
-Currently only code for reproducing public experiments listed in the paper (Section 4.1.1) are included. We are evaluating releasing custom kernels for HSTU needed for throughput/performance benchmarks at a later point in time.
+
 
 ## Getting started
 
+#### Data preparation
+
+To reproduce the results in our paper please download the processed pantry and scientific data from [here](https://drive.google.com/drive/folders/116QDSVlrsR6IvTR7_1Q5lkptSLzaM1bk?usp=sharing). Then place the downloaded ``tmp`` file in  home directory.
 
 #### Run model training.
 
