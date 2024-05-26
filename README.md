@@ -1,8 +1,7 @@
 # ELSM
 
-
 The source code of ``Enhancing Large Models based Sequential Recommendation with
-Multimodal Graph Convolution Network``
+Multimodal Graph Convolution Network``.
 
 Our code is implemented based on ``Actions Speak Louder than Words: Trillion-Parameter Sequential Transducers for Generative Recommendations``, [here](https://github.com/facebookresearch/generative-recommenders) is their project address. We mainly modified ``\ELSM\modeling\sequential\embedding_modules.py`` to implement our method
 
